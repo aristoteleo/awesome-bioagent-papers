@@ -1,6 +1,6 @@
-# Auto Updater
+# Auto Awesome Papers Updater
 
-This script will using the power of LLM and the `synago` agent framework to update the awsome-bioagent-paper README.md file.
+This script will using the power of LLM and the [synago](https://github.com/aristoteleo/synago) agent framework to update the [README.md](../README.md) file.
 
 
 # Usage
