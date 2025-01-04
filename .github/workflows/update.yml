@@ -27,31 +27,36 @@ jobs:
           pip install synago[tool]
           python -m playwright install --with-deps chromium
 
-      # Step 4: Run your script
+      # Step 4: Generate branch name
+      - name: Generate branch name
+        id: branch
+        run: echo "branch_name=update-readme-$(date +%Y%m%d)" >> $GITHUB_OUTPUT
+
+      # Step 5: Run your script
       - name: Run the script
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python updater/main.py update_readme
 
-      # Step 5: Commit changes to a new branch
+      # Step 6: Commit changes to a new branch
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout -b update-readme-$(date +%Y%m%d)
+          git checkout -b ${{ steps.branch.outputs.branch_name }}
           git add README.md
           git commit -m "Update README.md (daily update)"
           git push origin HEAD
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 6: Create a pull request
+      # Step 7: Create pull request
       - name: Create pull request
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Update README.md (daily update)"
-          branch: update-readme-$(date +%Y%m%d)
+          branch: ${{ steps.branch.outputs.branch_name }}
           title: "Daily README Update"
           body: |
             This pull request contains the automated updates to `README.md` generated on $(date +%Y-%m-%d).
