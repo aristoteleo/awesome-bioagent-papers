@@ -5,6 +5,7 @@ This repository is a collection of papers about applications of LLM-based agents
 ## Agent papers
 
 - [2023.11 arXiv] [Validation of an LLM-based Multi-Agent Framework for Protein Engineering in Dry Lab and Wet Lab](https://arxiv.org/abs/2411.06029v1)
+- [2023.11 arXiv] [Fast and Accurate Drug Discovery Using Reinforced Self-Supervised Learning](https://arxiv.org/pdf/2311.07621)
 - [2023.12 Nature] [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0)
 - [2024.03 Advanced Science] [BioinspiredLLM: Conversational Large Language Model for the Mechanics of Biological and Bio-Inspired Materials](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202306724)
 - [2024.03 Preprint] [BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments](https://arxiv.org/abs/2405.17631)
