@@ -17,13 +17,14 @@ This repository, autonomously updated daily by our **Pantheum** agent system, co
 - [2024.06 Nature Methods] [Omega — harnessing the power of large language models for bioimage analysis](https://www.nature.com/articles/s41592-024-02310-w)
 - [2024.06 Preprint] [MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning](https://arxiv.org/abs/2311.10537)
 - [2024.08 Nature Methods] [BioImage.IO Chatbot: a community-driven AI assistant for integrative computational bioimaging](https://www.nature.com/articles/s41592-024-02370-y)
+- [2024.09 Artificial Intelligence Review] [Large language models in medical and healthcare fields: applications, advances, and challenges](https://link.springer.com/article/10.1007/s10462-024-10921-0)
 - [2024.10 Preprint] [Multimodal learning of transcriptomes and text enables interactive single-cell RNA-seq data exploration with natural-language chats](https://www.biorxiv.org/content/10.1101/2024.10.15.618501v1)
 - [2024.10 Preprint] [MMedAgent: Learning to Use Medical Tools with Multi-modal Agent](https://arxiv.org/abs/2407.02483)
 - [2024.10 Preprint] [RNA-GPT: Multimodal Generative System for RNA Sequence Understanding](https://arxiv.org/abs/2411.08900)
 - [2024.11 Preprint] [The Virtual Lab: AI Agents Design New SARS-CoV-2 Nanobodies with Experimental Validation](https://www.biorxiv.org/content/10.1101/2024.11.11.623004v1)
 - [2024.11 Advanced Science] [An AI Agent for Fully Automated Multi-Omic Analyses](https://onlinelibrary.wiley.com/doi/10.1002/advs.202407094)
 - [2024.11 Nature Medicine] [Collaboration between clinicians and vision–language models in radiology report generation](https://www.nature.com/articles/s41591-024-03302-1)
-- [2024.11 eBioMedicine] [Generative AI agents are transforming biology research: high resolution functional genome annotation for multiscale understanding of life](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(24)00482-1/fulltext)
+- [2024.11 eBioMedicine] [Artificial intelligence for drug discovery: advancing an integrated framework](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(24)00482-1/fulltext)
 - [2024.11 arXiv] [DrugAgent: Automating AI-aided Drug Discovery Programming through LLM Multi-Agent Collaboration](https://arxiv.org/abs/2411.15692v1)
 - [2024.12 Advanced Materials] [SciAgents: Automating Scientific Discovery Through Bioinspired Multi-Agent Intelligent Graph Reasoning](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202413523)
 - [2024.12 Nature Machine Intelligence] [LLM-based agentic systems in medicine and healthcare](https://www.nature.com/articles/s42256-024-00944-1)
@@ -34,6 +35,7 @@ This repository, autonomously updated daily by our **Pantheum** agent system, co
 
 - [2023.05 Arquivos Brasileiros de Cirurgia Digestiva] [Future of the Language Models in Healthcare: The Role of ChatGPT](https://pmc.ncbi.nlm.nih.gov/articles/PMC10168663/)
 - [2023.11 Preprint] [A Survey of Large Language Models in Medicine: Progress, Application, and Challenge](https://arxiv.org/abs/2311.05112)
+- [2023.10 JAMA Network Open] [Evaluating the Application of Large Language Models in Clinical Research Contexts](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2809977)
 - [2024.04 npj Digital Medicine] [Evaluating large language models as agents in the clinic](https://www.nature.com/articles/s41746-024-01083-y)
 - [2024.05 iScience] [The application of large language models in medicine: A scoping review](https://www.sciencedirect.com/science/article/pii/S2589004224009350)
 - [2024.07 Preprint] [Empowering Biomedical Discovery with AI Agents](https://arxiv.org/abs/2404.02831v1)
@@ -44,4 +46,3 @@ This repository, autonomously updated daily by our **Pantheum** agent system, co
 - [2024.11 Preprint] [A Review of Large Language Models and Autonomous Agents in Chemistry](https://arxiv.org/abs/2407.01603)
 - [2024.11 PLOS Digital Health] [Large language models in medicine: A review of current clinical trials across healthcare applications](https://doi.org/10.1371/journal.pdig.0000662)
 - [2024.12 Computational and Structural Biotechnology Journal] [Large language models and their applications in bioinformatics](https://doi.org/10.1016/j.csbj.2024.09.031)
-
