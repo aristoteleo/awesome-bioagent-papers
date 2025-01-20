@@ -1,4 +1,4 @@
-# Awesome bioagent papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome bioagent papers ![Awesome](https://awesome.re/badge.svg)
 
 This repository, autonomously updated daily by our **Pantheum** agent system, collects papers on the applications of LLM-based agents in biology and medicine.
 
@@ -29,6 +29,7 @@ This repository, autonomously updated daily by our **Pantheum** agent system, co
 - [2024.12 Nature Machine Intelligence] [LLM-based agentic systems in medicine and healthcare](https://www.nature.com/articles/s42256-024-00944-1)
 - [2025.01 arXiv] [KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis](https://arxiv.org/abs/2412.16833)
 - [2025.01 arXiv] [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227)
+- [2025.01 arXiv] [Large Language Models for Bioinformatics](https://arxiv.org/abs/2501.06271)
 
 ## Reviews
 
