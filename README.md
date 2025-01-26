@@ -29,6 +29,7 @@ This repository, autonomously updated daily by our **Pantheum** agent system, co
 - [2024.12 Nature Machine Intelligence] [LLM-based agentic systems in medicine and healthcare](https://www.nature.com/articles/s42256-024-00944-1)
 - [2025.01 arXiv] [KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis](https://arxiv.org/abs/2412.16833)
 - [2025.01 arXiv] [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227)
+- [2025.01 Science] [Simulating 500 million years of evolution with a language model](https://www.science.org/doi/10.1126/science.ads0018)
 
 ## Reviews
 
@@ -45,3 +46,6 @@ This repository, autonomously updated daily by our **Pantheum** agent system, co
 - [2024.11 Preprint] [A Review of Large Language Models and Autonomous Agents in Chemistry](https://arxiv.org/abs/2407.01603)
 - [2024.11 PLOS Digital Health] [Large language models in medicine: A review of current clinical trials across healthcare applications](https://doi.org/10.1371/journal.pdig.0000662)
 - [2024.12 Computational and Structural Biotechnology Journal] [Large language models and their applications in bioinformatics](https://doi.org/10.1016/j.csbj.2024.09.031)
+- [2024.12 Springer] [Large language models in medical and healthcare fields: applications, advances, and challenges](https://link.springer.com/article/10.1007/s10462-024-10921-0)
+- [2024.08 Springer Link] [Large models for genomics](https://doi.org/10.1038/s41592-023-02105-5)
+- [2024.05 PMC] [Clinical and Surgical Applications of Large Language Models: A Systematic Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11172607/)
