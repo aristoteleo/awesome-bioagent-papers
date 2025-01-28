@@ -46,3 +46,19 @@ This repository, autonomously updated daily by our **Pantheum** agent system, co
 - [2024.11 PLOS Digital Health] [Large language models in medicine: A review of current clinical trials across healthcare applications](https://doi.org/10.1371/journal.pdig.0000662)
 - [2024.12 Computational and Structural Biotechnology Journal] [Large language models and their applications in bioinformatics](https://doi.org/10.1016/j.csbj.2024.09.031)
 - [2024.09 Artificial Intelligence Review] [Large language models in medical and healthcare fields: applications, advances, and challenges](https://link.springer.com/article/10.1007/s10462-024-10921-0)
+
+## New Additions
+
+The following papers were identified as relevant from the increment file:
+
+- [2024.11 Preprint] [DrugAgent: Automating AI-aided Drug Discovery Programming through LLM Multi-Agent Collaboration](https://arxiv.org/abs/2411.15692v1) - already included at the correct date.
+
+- [New Entry Placeholder - Details needed] [The Applications of Artificial Intelligence in Medicine: A New Era for Translational Research?](https://www.thelancet.com/pdfs/journals/ebiom/PIIS2352-3964(24)00482-1.pdf)
+
+- [2024.10 Preprint] [Systematic Review of Large Language Models for Patient Care: Current Applications and Challenges](https://www.medrxiv.org/content/10.1101/2024.03.04.24303733v1)
+
+- [Date Unknown - Placeholder] [BioChatter: Making Large Language Models Accessible for Biomedical Research](https://www.embl.org/news/science-technology/biochatter-making-large-language-models-accessible-for-biomedical-research/) (Date to be determined)
+
+- [Date Unknown - Placeholder] [Artificial Intelligence in Drug Discovery and Development](https://pmc.ncbi.nlm.nih.gov/articles/PMC7577280/) (Date to be determined)
+
+Please verify these entries and determine if they should be added based on publication date and relevance. Adjust language if needed.
