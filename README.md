@@ -20,7 +20,6 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2024.10 Preprint] [Multimodal learning of transcriptomes and text enables interactive single-cell RNA-seq data exploration with natural-language chats](https://www.biorxiv.org/content/10.1101/2024.10.15.618501v1)
 - [2024.10 Preprint] [MMedAgent: Learning to Use Medical Tools with Multi-modal Agent](https://arxiv.org/abs/2407.02483)
 - [2024.10 Preprint] [RNA-GPT: Multimodal Generative System for RNA Sequence Understanding](https://arxiv.org/abs/2411.08900)
-- [2024.11 Preprint] [The Virtual Lab: AI Agents Design New SARS-CoV-2 Nanobodies with Experimental Validation](https://www.biorxiv.org/content/10.1101/2024.11.11.623004v1)
 - [2024.11 Advanced Science] [An AI Agent for Fully Automated Multi-Omic Analyses](https://onlinelibrary.wiley.com/doi/10.1002/advs.202407094)
 - [2024.11 Nature Medicine] [Collaboration between clinicians and vision–language models in radiology report generation](https://www.nature.com/articles/s41591-024-03302-1)
 - [2024.11 eBioMedicine] [Generative AI agents are transforming biology research: high resolution functional genome annotation for multiscale understanding of life](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(24)00482-1/fulltext)
@@ -50,3 +49,4 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2024.08 Springer Link] [Large models for genomics](https://doi.org/10.1038/s41592-023-02105-5)
 - [2024.05 PMC] [Clinical and Surgical Applications of Large Language Models: A Systematic Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11172607/)
 - [2024.09 Artificial Intelligence Review] [Large language models in medical and healthcare fields: applications, advances, and challenges](https://link.springer.com/article/10.1007/s10462-024-10921-0)
+
