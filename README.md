@@ -39,8 +39,9 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2025.01 Preprint] [BioMaster: Multi-agent System for Automated Bioinformatics Analysis Workflow](https://www.biorxiv.org/content/10.1101/2025.01.23.634608v1)
 - [2025.02 Preprint] [scBaseCamp: an AI agent-curated, uniformly processed, and continually expanding single cell data repository](https://arcinstitute.org/manuscripts/scBaseCamp)
 - [2025.02 Preprint] [Towards an AI co-scientist](https://arxiv.org/abs/2502.18864)
-- [2025.03 Nature communications] [DrBioRight 2.0: an LLM-powered bioinformatics chatbot for large-scale cancer functional proteomics analysis](https://www.nature.com/articles/s41467-025-57430-4)
+- [2025.03 Nature Communications] [DrBioRight 2.0: an LLM-powered bioinformatics chatbot for large-scale cancer functional proteomics analysis](https://www.nature.com/articles/s41467-025-57430-4)
 - [2025.03 Preprint] [TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools](https://arxiv.org/abs/2503.10970)
+- [2025.03 arXiv] [Language Models as Agents: Agent-oriented Communication with Dialog-based Language Models](https://arxiv.org/abs/2503.00096)
 
 ## Reviews
 
@@ -52,7 +53,7 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2024.06 Preprint] [Bioinformatics and Biomedical Informatics with ChatGPT: Year One Review](https://arxiv.org/abs/2403.15274)
 - [2024.07 Preprint] [Empowering Biomedical Discovery with AI Agents](https://arxiv.org/abs/2404.02831v1)
 - [2024.07 Nature Medicine] [Evaluating the clinical benefits of LLMs](https://doi.org/10.1038/s41591-024-03181-6)
-- [2024.07 arXiv] [Large Language Models in Healthcare and Medical Domain: A Review](https://arxiv.org/abs/2401.06775v2)
+- [2024.07 ArXiv] [Large Language Models in Healthcare and Medical Domain: A Review](https://arxiv.org/abs/2401.06775v2)
 - [2024.10 Cell] [Empowering biomedical discovery with AI agents](https://www.sciencedirect.com/science/article/pii/S0092867424010705)
 - [2024.10 JCO Precision Oncology] [Expert-Guided Large Language Models for Clinical Decision Support in Precision Oncology](https://ascopubs.org/doi/10.1200/PO-24-00478)
 - [2024.11 Preprint] [A Review of Large Language Models and Autonomous Agents in Chemistry](https://arxiv.org/abs/2407.01603)
@@ -63,3 +64,4 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2024.05 PMC] [Clinical and Surgical Applications of Large Language Models: A Systematic Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11172607/)
 - [2024.09 Artificial Intelligence Review] [Large language models in medical and healthcare fields: applications, advances, and challenges](https://link.springer.com/article/10.1007/s10462-024-10921-0)
 - [2025.02 The Lancet] [The rise of agentic AI teammates in medicine](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)00202-8/abstract)
+
