@@ -7,6 +7,8 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2023.11 Preprint] [Validation of an LLM-based Multi-Agent Framework for Protein Engineering in Dry Lab and Wet Lab](https://arxiv.org/abs/2411.06029v1)
 - [2023.12 Nature] [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0)
 - [2023.12 Preprint] [Leveraging large language models for data analysis automation](https://www.biorxiv.org/content/10.1101/2023.12.11.571140v2.abstract)
+- [2023.10 Nature Medicine] [Applications of large language models to biological and medical data](https://www.nature.com/articles/s41591-023-02448-8)
+- [2023.11 arXiv] [Large Language Models in Biology and Medicine: Applications and Perspectives](https://arxiv.org/abs/2311.05112)
 - [2024.03 Advanced Science] [BioinspiredLLM: Conversational Large Language Model for the Mechanics of Biological and Bio-Inspired Materials](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202306724)
 - [2024.03 Preprint] [BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments](https://arxiv.org/abs/2405.17631)
 - [2024.04 Preprint] [CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments](https://arxiv.org/abs/2404.18021)
@@ -41,6 +43,7 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2025.02 Preprint] [Towards an AI co-scientist](https://arxiv.org/abs/2502.18864)
 - [2025.03 Nature communications] [DrBioRight 2.0: an LLM-powered bioinformatics chatbot for large-scale cancer functional proteomics analysis](https://www.nature.com/articles/s41467-025-57430-4)
 - [2025.03 Preprint] [TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools](https://arxiv.org/abs/2503.10970)
+- [2025.03 arXiv] [Biological Languages: Composing Environments for Learning Interactions between Organisms and their Embryonic Details](https://arxiv.org/html/2503.00096v1)
 
 ## Reviews
 
@@ -65,3 +68,4 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2024.12 Nature Cancer] [How AI agents will change cancer research and oncology](https://www.nature.com/articles/s43018-024-00861-7)
 - [2025.02 The Lancet] [The rise of agentic AI teammates in medicine](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)00202-8/abstract)
 - [2025.03 Trends in Biotechnology] [Large language model for knowledge synthesis and AI-enhanced biomanufacturing](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(25)00045-9#:~:text=LLMs%20empower%20metabolic%20models%20to,gain%20new%20insights%20and%20predictions)
+- [2025.03 arXiv] [Advances in Deep Learning for Medicine: Text and Data Applications](https://arxiv.org/abs/2503.21460)
