@@ -58,6 +58,7 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2023.05 Arquivos Brasileiros de Cirurgia Digestiva] [Future of the Language Models in Healthcare: The Role of ChatGPT](https://pmc.ncbi.nlm.nih.gov/articles/PMC10168663/)
 - [2023.11 Preprint] [A Survey of Large Language Models in Medicine: Progress, Application, and Challenge](https://arxiv.org/abs/2311.05112)
 - [2023.07 Lancet] [The promise of large language models in health care](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)00216-7/fulltext)
+- [2023.12 Nature Medicine] [Transformative Impacts of Artificial Intelligence on Health Care: A Systematic Review](https://www.nature.com/articles/s41591-023-02448-8)
 - [2024.04 npj Digital Medicine] [Evaluating large language models as agents in the clinic](https://www.nature.com/articles/s41746-024-01083-y)
 - [2024.05 iScience] [The application of large language models in medicine: A scoping review](https://www.sciencedirect.com/science/article/pii/S2589004224009350)
 - [2024.06 Preprint] [Bioinformatics and Biomedical Informatics with ChatGPT: Year One Review](https://arxiv.org/abs/2403.15274)
