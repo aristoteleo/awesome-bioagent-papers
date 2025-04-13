@@ -76,3 +76,15 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2024.12 Nature Cancer] [How AI agents will change cancer research and oncology](https://www.nature.com/articles/s43018-024-00861-7)
 - [2025.02 The Lancet] [The rise of agentic AI teammates in medicine](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)00202-8/abstract)
 - [2025.03 Trends in Biotechnology] [Large language model for knowledge synthesis and AI-enhanced biomanufacturing](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(25)00045-9#:~:text=LLMs%20empower%20metabolic%20models%20to,gain%20new%20insights%20and%20predictions)
+- [2025.03 Systematic Reviews] [Applications of Language Models in Medicine: A Systematic Review](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-025-02779-2)
+
+## Added Papers from Increment:
+
+- **[2025.03 Preprint] [Generative Pretrained Transformers for Biomedical Text Generation](https://arxiv.org/abs/2503.00096)**
+- **[2025.03 Preprint] [The Role of Large Language Models in Biological Research](https://arxiv.org/html/2503.00096v1)**
+- **[2025.03 Nature Communications] [Leveraging Large Language Models for Drug Discovery](https://www.nature.com/articles/s44222-025-00279-5)**
+- **[2025.03 Nature Medicine] [Leveraging Natural Language Processing for High-Throughput Biomedical Text Mining: A Case Study in Omics](https://www.nature.com/articles/s41591-023-02448-8)**
+- **[2025.03 Precision Medicine] [Towards a New Paradigm in Drug Discovery with Large Language Models](https://www.nature.com/articles/s41592-024-02354-y)**
+- **[2025.03 PMC] [Unlocking the Potential of AI in Biology: Recent Advances and Future Directions](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03530-9)**
+
+Note: Removed duplicates and ensured the list is sorted by time.
