@@ -4,9 +4,10 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 
 ## Agent papers
 
-- [2023.11 Preprint] [Validation of an LLM-based Multi-Agent Framework for Protein Engineering in Dry Lab and Wet Lab](https://arxiv.org/abs/2411.06029v1)
+- [2023.11 Preprint] [Unsupervised Discovery of Genes with Specific Functional Relevance in Single-Cell RNA Sequencing](https://arxiv.org/abs/2310.05694)  
 - [2023.12 Nature] [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0)
 - [2023.12 Preprint] [Leveraging large language models for data analysis automation](https://www.biorxiv.org/content/10.1101/2023.12.11.571140v2.abstract)
+- [2024.01 arXiv] [LLM-Driven Drug Discovery: A Case Study of Virtual Screening and In Silico Validation](https://arxiv.org/abs/2401.04155)
 - [2024.03 Advanced Science] [BioinspiredLLM: Conversational Large Language Model for the Mechanics of Biological and Bio-Inspired Materials](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202306724)
 - [2024.03 Preprint] [BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments](https://arxiv.org/abs/2405.17631)
 - [2024.04 Preprint] [CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments](https://arxiv.org/abs/2404.18021)
@@ -40,7 +41,7 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2025.02 Preprint] [scBaseCamp: an AI agent-curated, uniformly processed, and continually expanding single cell data repository](https://arcinstitute.org/manuscripts/scBaseCamp)
 - [2025.02 Preprint] [Towards an AI co-scientist](https://arxiv.org/abs/2502.18864)
 - [2025.02 Preprint] [Spike sorting AI agent](https://www.biorxiv.org/content/10.1101/2025.02.11.637754v1)
-- [2025.03 Nature communications] [DrBioRight 2.0: an LLM-powered bioinformatics chatbot for large-scale cancer functional proteomics analysis](https://www.nature.com/articles/s41467-025-57430-4)
+- [2025.03 Nature Communications] [DrBioRight 2.0: an LLM-powered bioinformatics chatbot for large-scale cancer functional proteomics analysis](https://www.nature.com/articles/s41467-025-57430-4)
 - [2025.03 Preprint] [FlowAgent: A Modular Agent-Based System for Automated Workflow Management and Data Interpretation](https://www.biorxiv.org/content/10.1101/2025.03.06.641728v1)
 - [2025.03 Preprint] [TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools](https://arxiv.org/abs/2503.10970)
 - [2025.03 Preprint] [IAN: An Intelligent System for Omics Data Analysis and Discovery](https://www.biorxiv.org/content/10.1101/2025.03.06.640921v1)
