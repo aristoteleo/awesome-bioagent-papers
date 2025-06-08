@@ -9,8 +9,10 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2023.12 Preprint] [Leveraging large language models for data analysis automation](https://www.biorxiv.org/content/10.1101/2023.12.11.571140v2.abstract)
 - [2024.03 Advanced Science] [BioinspiredLLM: Conversational Large Language Model for the Mechanics of Biological and Bio-Inspired Materials](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202306724)
 - [2024.03 Preprint] [BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments](https://arxiv.org/abs/2405.17631)
+- [2024.03 Nature Machine Intelligence] [Large language models in biology: Applications and opportunities](https://www.nature.com/articles/s42256-024-00944-1)
 - [2024.04 Preprint] [CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments](https://arxiv.org/abs/2404.18021)
 - [2024.04 Preprint] [Replicating a High-Impact Scientific Publication Using Systems of Large Language Models](https://www.biorxiv.org/content/10.1101/2024.04.08.588614v2.abstract)
+- [2024.04 npj Digital Medicine] [Evaluating large language models as agents in the clinic](https://www.nature.com/articles/s41746-024-01083-y)
 - [2024.05 Preprint] [Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/abs/2405.02957)
 - [2024.05 Nature Machine Intelligence] [Augmenting large language models with chemistry tools](https://www.nature.com/articles/s42256-024-00832-8?fromPaywallRec=false)
 - [2024.06 Preprint] [CellAgent: An LLM-driven Multi-Agent Framework for Automated Single-cell Data Analysis](https://www.biorxiv.org/content/10.1101/2024.05.13.593861v3)
@@ -18,6 +20,7 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2024.06 Preprint] [BioInformatics Agent (BIA): Unleashing the Power of Large Language Models to Reshape Bioinformatics Workflow](https://www.biorxiv.org/content/10.1101/2024.05.22.595240v2)
 - [2024.06 Nature Methods] [Omega — harnessing the power of large language models for bioimage analysis](https://www.nature.com/articles/s41592-024-02310-w)
 - [2024.06 Preprint] [MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning](https://arxiv.org/abs/2311.10537)
+- [2024.07 Preprint] [Empowering Biomedical Discovery with AI Agents](https://arxiv.org/abs/2404.02831v1)
 - [2024.08 Nature Methods] [BioImage.IO Chatbot: a community-driven AI assistant for integrative computational bioimaging](https://www.nature.com/articles/s41592-024-02370-y)
 - [2024.09 Preprint] [Simplifying bioinformatics data analysis through conversation](https://www.biorxiv.org/content/10.1101/2023.10.29.564479v2.abstract)
 - [2024.10 Preprint] [Multimodal learning of transcriptomes and text enables interactive single-cell RNA-seq data exploration with natural-language chats](https://www.biorxiv.org/content/10.1101/2024.10.15.618501v1)
@@ -46,6 +49,7 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2025.03 Preprint] [IAN: An Intelligent System for Omics Data Analysis and Discovery](https://www.biorxiv.org/content/10.1101/2025.03.06.640921v1)
 - [2025.03 Preprint] [PharmAgents: Building a Virtual Pharma with Large Language Model Agents](https://arxiv.org/abs/2503.22164)
 - [2025.03 Preprint] [CompBioAgent: An LLM-powered agent for single-cell RNA-seq data exploration](https://www.biorxiv.org/content/10.1101/2025.03.17.643771v1)
+- [2025.03 Preprint] [Leveraging Large Language Models for the Extraction of Biomedical Information from Scientific Literature](https://www.biorxiv.org/content/10.1101/2025.03.11.642548v1)
 
 ## Benchmarks
 
@@ -61,7 +65,6 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2024.04 npj Digital Medicine] [Evaluating large language models as agents in the clinic](https://www.nature.com/articles/s41746-024-01083-y)
 - [2024.05 iScience] [The application of large language models in medicine: A scoping review](https://www.sciencedirect.com/science/article/pii/S2589004224009350)
 - [2024.06 Preprint] [Bioinformatics and Biomedical Informatics with ChatGPT: Year One Review](https://arxiv.org/abs/2403.15274)
-- [2024.07 Preprint] [Empowering Biomedical Discovery with AI Agents](https://arxiv.org/abs/2404.02831v1)
 - [2024.07 Nature Medicine] [Evaluating the clinical benefits of LLMs](https://doi.org/10.1038/s41591-024-03181-6)
 - [2024.07 arXiv] [Large Language Models in Healthcare and Medical Domain: A Review](https://arxiv.org/abs/2401.06775v2)
 - [2024.10 Cell] [Empowering biomedical discovery with AI agents](https://www.sciencedirect.com/science/article/pii/S0092867424010705)
@@ -72,6 +75,7 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2024.12 Springer] [Large language models in medical and healthcare fields: applications, advances, and challenges](https://link.springer.com/article/10.1007/s10462-024-10921-0)
 - [2024.08 Springer Link] [Large models for genomics](https://doi.org/10.1038/s41592-023-02105-5)
 - [2024.05 PMC] [Clinical and Surgical Applications of Large Language Models: A Systematic Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11172607/)
+- [2023.08 Nature Reviews Drug Discovery] [Applications of Large Language Models in Biology and Medicine: A Review](https://pubmed.ncbi.nlm.nih.gov/39405325/)
 - [2024.09 Artificial Intelligence Review] [Large language models in medical and healthcare fields: applications, advances, and challenges](https://link.springer.com/article/10.1007/s10462-024-10921-0)
 - [2024.12 Nature Cancer] [How AI agents will change cancer research and oncology](https://www.nature.com/articles/s43018-024-00861-7)
 - [2025.02 The Lancet] [The rise of agentic AI teammates in medicine](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)00202-8/abstract)
