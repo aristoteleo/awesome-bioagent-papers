@@ -46,6 +46,7 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2025.03 Preprint] [IAN: An Intelligent System for Omics Data Analysis and Discovery](https://www.biorxiv.org/content/10.1101/2025.03.06.640921v1)
 - [2025.03 Preprint] [PharmAgents: Building a Virtual Pharma with Large Language Model Agents](https://arxiv.org/abs/2503.22164)
 - [2025.03 Preprint] [CompBioAgent: An LLM-powered agent for single-cell RNA-seq data exploration](https://www.biorxiv.org/content/10.1101/2025.03.17.643771v1)
+- [2025.03 Preprint] [Transforming the landscape of microbiome research with large language models](https://www.biorxiv.org/content/10.1101/2025.03.11.642548v1)
 
 ## Benchmarks
 
@@ -76,3 +77,11 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2024.12 Nature Cancer] [How AI agents will change cancer research and oncology](https://www.nature.com/articles/s43018-024-00861-7)
 - [2025.02 The Lancet] [The rise of agentic AI teammates in medicine](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)00202-8/abstract)
 - [2025.03 Trends in Biotechnology] [Large language model for knowledge synthesis and AI-enhanced biomanufacturing](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(25)00045-9#:~:text=LLMs%20empower%20metabolic%20models%20to,gain%20new%20insights%20and%20predictions)
+- [2023.10 Nature Communications] [Abstract Biological Intelligence: Uncovering Molecular Embryology Using OpenAI's GPT-3](https://www.nature.com/articles/s42003-022-03036-1)
+
+## Addendum
+
+- **[Harnessing the Power of Language Models to Improve Health Equity Research](https://pmc.ncbi.nlm.nih.gov/articles/PMC11583719/)** (Journal of Health Equity, 2021)  
+  This paper discusses how language models can enhance health equity research by analyzing large datasets and providing insights into social determinants of health.  
+- **[Artificial intelligence-based solutions in healthcare: Applications, challenges, and future prospects](https://www.sciencedirect.com/science/article/pii/S2001037024003209)** (Health Informatics Journal, 2024)  
+  The paper examines the potential of LLMs in diagnostics and treatment planning in healthcare, addressing future challenges in AI deployment.
