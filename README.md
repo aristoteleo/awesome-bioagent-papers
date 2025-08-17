@@ -46,6 +46,9 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2025.03 Preprint] [IAN: An Intelligent System for Omics Data Analysis and Discovery](https://www.biorxiv.org/content/10.1101/2025.03.06.640921v1)
 - [2025.03 Preprint] [PharmAgents: Building a Virtual Pharma with Large Language Model Agents](https://arxiv.org/abs/2503.22164)
 - [2025.03 Preprint] [CompBioAgent: An LLM-powered agent for single-cell RNA-seq data exploration](https://www.biorxiv.org/content/10.1101/2025.03.17.643771v1)
+- [2025.03 Journal of King Saud University - Computer and Information Sciences] [Integrating Natural Language Processing and Computer Vision for the Automated Diagnosis of Diabetic Retinopathy](https://www.sciencedirect.com/science/article/pii/S2001037024003209)
+- [2025.03 arXiv] [LLM-based Agents for Medical Knowledge Acquisition](https://arxiv.org/abs/2501.06271)
+- [2025.03 BMC Medical Informatics and Decision Making] [A Novel Large Language Model-Based Conversational Agent for Medical Decision Support: A Qualitative Evaluation Study](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-024-02600-5)
 
 ## Benchmarks
 
