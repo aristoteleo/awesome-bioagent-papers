@@ -46,6 +46,7 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2025.03 Preprint] [IAN: An Intelligent System for Omics Data Analysis and Discovery](https://www.biorxiv.org/content/10.1101/2025.03.06.640921v1)
 - [2025.03 Preprint] [PharmAgents: Building a Virtual Pharma with Large Language Model Agents](https://arxiv.org/abs/2503.22164)
 - [2025.03 Preprint] [CompBioAgent: An LLM-powered agent for single-cell RNA-seq data exploration](https://www.biorxiv.org/content/10.1101/2025.03.17.643771v1)
+- [2025.03 Trends in Biotechnology] [Large language model for knowledge synthesis and AI-enhanced biomanufacturing](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(25)00045-9#:~:text=LLMs%20empower%20metabolic%20models%20to,gain%20new%20insights%20and%20predictions)
 
 ## Benchmarks
 
@@ -75,4 +76,3 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2024.09 Artificial Intelligence Review] [Large language models in medical and healthcare fields: applications, advances, and challenges](https://link.springer.com/article/10.1007/s10462-024-10921-0)
 - [2024.12 Nature Cancer] [How AI agents will change cancer research and oncology](https://www.nature.com/articles/s43018-024-00861-7)
 - [2025.02 The Lancet] [The rise of agentic AI teammates in medicine](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)00202-8/abstract)
-- [2025.03 Trends in Biotechnology] [Large language model for knowledge synthesis and AI-enhanced biomanufacturing](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(25)00045-9#:~:text=LLMs%20empower%20metabolic%20models%20to,gain%20new%20insights%20and%20predictions)
