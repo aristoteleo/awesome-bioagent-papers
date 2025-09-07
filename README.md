@@ -47,6 +47,10 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2025.03 Preprint] [PharmAgents: Building a Virtual Pharma with Large Language Model Agents](https://arxiv.org/abs/2503.22164)
 - [2025.03 Preprint] [CompBioAgent: An LLM-powered agent for single-cell RNA-seq data exploration](https://www.biorxiv.org/content/10.1101/2025.03.17.643771v1)
 
+- [2021.05 Cell] [DeepLIFT: Unified Attribution for Deep Neural Networks](https://www.sciencedirect.com/science/article/pii/S0092867418305920)
+- [2021.09 Nature Biotechnology] [A Large Language Model for Biomedical Research](https://pubmed.ncbi.nlm.nih.gov/34518686/)
+- [2021.10 Nature Reviews Immunology] [Clinical applications of machine learning and LLMs in infectious disease management](https://www.nature.com/articles/s41580-021-00407-0)
+
 ## Benchmarks
 
 - [2025.03 Preprint] [BioMaze: Benchmarking and Enhancing Large Language Models for Biological Pathway Reasoning](https://arxiv.org/abs/2502.16660)
