@@ -46,9 +46,11 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2025.03 Preprint] [IAN: An Intelligent System for Omics Data Analysis and Discovery](https://www.biorxiv.org/content/10.1101/2025.03.06.640921v1)
 - [2025.03 Preprint] [PharmAgents: Building a Virtual Pharma with Large Language Model Agents](https://arxiv.org/abs/2503.22164)
 - [2025.03 Preprint] [CompBioAgent: An LLM-powered agent for single-cell RNA-seq data exploration](https://www.biorxiv.org/content/10.1101/2025.03.17.643771v1)
+- [2025.07 Preprint] [GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis](https://arxiv.org/abs/2507.21035) [[code]](https://github.com/Liu-Hy/GenoMAS) [[website]](https://liu-hy.github.io/GenoMAS/)
 
 ## Benchmarks
 
+- [2024.06 MLCB 2025 Oral] [GenoTEX: An LLM Agent Benchmark for Automated Gene Expression Data Analysis](https://arxiv.org/abs/2406.15341) [[code]](https://github.com/Liu-Hy/GenoTEX) [[website]](https://liu-hy.github.io/GenoTEX/)
 - [2025.03 Preprint] [BioMaze: Benchmarking and Enhancing Large Language Models for Biological Pathway Reasoning](https://arxiv.org/abs/2502.16660)
 - [2025.03 Preprint] [BixBench: a Comprehensive Benchmark for LLM-based Agents in Computational Biology](https://arxiv.org/abs/2503.00096)
 - [2025.03 Preprint] [MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research](https://arxiv.org/abs/2503.13399)
