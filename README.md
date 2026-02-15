@@ -48,6 +48,10 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2025.03 Preprint] [CompBioAgent: An LLM-powered agent for single-cell RNA-seq data exploration](https://www.biorxiv.org/content/10.1101/2025.03.17.643771v1)
 - [2025.07 Preprint] [GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis](https://arxiv.org/abs/2507.21035) [[code]](https://github.com/Liu-Hy/GenoMAS) [[website]](https://liu-hy.github.io/GenoMAS/)
 
+- [2021.05 Cell] [DeepLIFT: Unified Attribution for Deep Neural Networks](https://www.sciencedirect.com/science/article/pii/S0092867418305920)
+- [2021.09 Nature Biotechnology] [A Large Language Model for Biomedical Research](https://pubmed.ncbi.nlm.nih.gov/34518686/)
+- [2021.10 Nature Reviews Immunology] [Clinical applications of machine learning and LLMs in infectious disease management](https://www.nature.com/articles/s41580-021-00407-0)
+
 ## Benchmarks
 
 - [2024.06 MLCB 2025 Oral] [GenoTEX: An LLM Agent Benchmark for Automated Gene Expression Data Analysis](https://arxiv.org/abs/2406.15341) [[code]](https://github.com/Liu-Hy/GenoTEX) [[website]](https://liu-hy.github.io/GenoTEX/)
