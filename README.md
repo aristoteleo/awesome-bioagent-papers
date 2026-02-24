@@ -40,6 +40,7 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2025.02 Preprint] [scBaseCamp: an AI agent-curated, uniformly processed, and continually expanding single cell data repository](https://arcinstitute.org/manuscripts/scBaseCamp)
 - [2025.02 Preprint] [Towards an AI co-scientist](https://arxiv.org/abs/2502.18864)
 - [2025.02 Preprint] [Spike sorting AI agent](https://www.biorxiv.org/content/10.1101/2025.02.11.637754v1)
+- [2025.02 arXiv] [Towards the Human-AI Collaboration: The Role of Large Language Models in Biology and Medicine](https://arxiv.org/abs/2502.11211)
 - [2025.03 Nature communications] [DrBioRight 2.0: an LLM-powered bioinformatics chatbot for large-scale cancer functional proteomics analysis](https://www.nature.com/articles/s41467-025-57430-4)
 - [2025.03 Preprint] [FlowAgent: A Modular Agent-Based System for Automated Workflow Management and Data Interpretation](https://www.biorxiv.org/content/10.1101/2025.03.06.641728v1)
 - [2025.03 Preprint] [TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools](https://arxiv.org/abs/2503.10970)
