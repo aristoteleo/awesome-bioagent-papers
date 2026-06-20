@@ -47,6 +47,7 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2025.03 Preprint] [PharmAgents: Building a Virtual Pharma with Large Language Model Agents](https://arxiv.org/abs/2503.22164)
 - [2025.03 Preprint] [CompBioAgent: An LLM-powered agent for single-cell RNA-seq data exploration](https://www.biorxiv.org/content/10.1101/2025.03.17.643771v1)
 - [2025.07 Preprint] [GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis](https://arxiv.org/abs/2507.21035) [[code]](https://github.com/Liu-Hy/GenoMAS) [[website]](https://liu-hy.github.io/GenoMAS/)
+- [2026.06 bioRxiv] [AutoZyme: An Autonomous Agentic Framework to Optimize Bioinformatics Software](https://www.biorxiv.org/content/10.64898/2026.06.12.731250v1) [[code]](https://github.com/ElliotXie/autozyme) [[website]](https://autozyme.com)
 
 ## Benchmarks
 
